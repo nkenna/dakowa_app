@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921240117237",
+    "project_id": "dakowa-de6e0",
+    "storage_bucket": "dakowa-de6e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921240117237:android:a8dfee43ca18a604290abc",
+        "android_client_info": {
+          "package_name": "com.steinacoz.dakowa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921240117237-av4sht5tdr411gk7e0ijhejbls2glj1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9H3K3f0umc8pg4BdSK3Tz1MPtpRmGzbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921240117237-av4sht5tdr411gk7e0ijhejbls2glj1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
